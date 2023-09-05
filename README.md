@@ -36,3 +36,7 @@ This project follows the MVVM (Model-View-ViewModel) architecture, which separat
 
 ## Data Storage 
 This app uses UserDefaults for data storage, making it a lightweight option for managing tasks. Note that UserDefaults is suitable for small-scale applications like this one. For larger-scale projects, consider using Core Data or other data storage solutions.
+
+
+## Animations 
+The app includes subtle animations to enhance the user experience. These animations provide feedback and visual cues for task interactions, making the app more engaging and user-friendly.
